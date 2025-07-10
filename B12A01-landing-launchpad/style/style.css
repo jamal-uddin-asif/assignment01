@@ -4,6 +4,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: #f2f9ff;
+}
 header{
     background-image: url("../Assets/Hero-bg.png");
 
@@ -160,4 +163,22 @@ span{
 /* user section end  */
 /* rating section start  */
 
+.rating-parent{
+    display: flex;
+    gap: 24px;
+    margin: 100px;
+}
+.rating-heading{
+    text-align: center;
+    
+}
+.name{
+    margin: 6px 6px 6px 0px;
+}
 
+
+.ratings-people{
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+}
