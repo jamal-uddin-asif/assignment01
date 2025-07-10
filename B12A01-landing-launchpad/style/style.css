@@ -121,5 +121,39 @@ span{
     border-radius: 48px;
     height: 328px;
     width: 400px;
-    
+}
+/* action section end  */
+/* users section start  */
+.users{
+    background-color: #4d47ff2e;
+    margin: 80px;
+    border-radius: 24px;
+    height: 250px;
+
+}
+.user-heading{
+    text-align: center;
+    padding: 27px;
+    font-size: 38px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.user-percent{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+
+}
+ .view{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4d47ff60;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.user-pera{
+    color: rgb(101, 101, 105);
+    position: relative;
+    left: 27px;
+    bottom: 10px;
 }
