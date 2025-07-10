@@ -85,3 +85,23 @@ span{
 }
 /* header banner end  */
 /* header end  */
+
+/* main start  */
+/* action section start   */
+.action{
+    display: flex;
+    margin: 100px;
+    justify-content: space-between;
+}
+.action-content{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+.action-img{
+    border-radius: 48px;
+    height: 328px;
+    width: 400px;
+    
+}
