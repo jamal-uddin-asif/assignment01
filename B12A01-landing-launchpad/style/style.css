@@ -99,6 +99,24 @@ span{
     /* align-items: center; */
     justify-content: center;
 }
+.action-heading{
+    font-weight: bold;
+    font-size: 42px;
+}
+.action-discription{
+    font-size: 24px;
+    color:rgba(103, 98, 98, 0.68);
+    margin: 20px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.action-button{
+    width: 157px;
+    font-family: 'Lucida Sans';
+}   
+.action-button:hover{
+    background-color: #120f7f;
+    color: rgb(182, 176, 176);
+}
 .action-img{
     border-radius: 48px;
     height: 328px;
