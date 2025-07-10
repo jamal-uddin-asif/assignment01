@@ -170,6 +170,8 @@ span{
 }
 .rating-heading{
     text-align: center;
+    font-weight: bold;
+    font-size: 42;
     
 }
 .name{
@@ -181,4 +183,7 @@ span{
     background-color: #ffffff;
     border-radius: 15px;
     padding: 20px;
+}
+.rating-img{
+    border-radius: 39px;
 }
