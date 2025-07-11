@@ -244,4 +244,24 @@ textarea{
 }
 /* form section end  */
 
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: #ffffff;
+}
+.footer-heading{
+        font-weight: bolder;
+        font-size: 100px;
+        color: #4d47ff9b;
+}
+.footer ul{
+    display: flex;
+}
+.footer-description{
+    color: #908b8bda;
+    margin: 10px 0px 20px 0px;
+}
 
