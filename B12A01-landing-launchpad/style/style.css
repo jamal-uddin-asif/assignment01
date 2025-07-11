@@ -197,6 +197,51 @@ span{
 }
 
 /* rating section end  */
+/* form section start  */
 
+.form{
+    display: flex;
+    margin: 100px;
+    justify-content: space-between;
+
+}
+.form-heading{
+    font-weight: bold;
+    font-size: 55px;
+    width: 50%;
+    /* align-items: center; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+input{
+    height: 70px;
+    width: 450px;
+    border-radius: 10px;
+    border-color: rgba(240, 237, 237, 0.299);
+    margin: 8px 0px 18px 0px;
+    
+}
+input::placeholder{
+    font-size: 20;
+}
+label{
+    font-weight: bold;
+    font-size: 19;
+}
+textarea{
+    color: #918989bc;
+    border-color: #6966664a;
+    padding: 12px;
+    border-radius: 12px;
+}
+.form-button{
+    margin-top: 9px;
+    width: 450px;
+    height: 40px;
+    color: white;
+}
+/* form section end  */
 
 
