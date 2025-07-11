@@ -177,7 +177,13 @@ span{
 .name{
     margin: 6px 6px 6px 0px;
 }
+.reviewer-name{
+    display: inline-block;
+}
 
+ small{
+    color: #696666;
+ }
 
 .ratings-people{
     background-color: #ffffff;
@@ -186,4 +192,9 @@ span{
 }
 .rating-img{
     border-radius: 39px;
+    position: relative;
+    top: 8px;
 }
+
+/* rating section end  */
+
